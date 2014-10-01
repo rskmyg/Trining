@@ -1,0 +1,1 @@
+ALTER TABLE orders DROP FOREIGN KEY orders_fk1;
